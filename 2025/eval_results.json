@@ -1,0 +1,13 @@
+{
+    "epoch": 3.0,
+    "eval_accuracy": 0.6600071733754507,
+    "eval_loss": 1.3950769901275635,
+    "eval_runtime": 9.6599,
+    "eval_samples": 311,
+    "eval_samples_per_second": 35.53,
+    "eval_steps_per_second": 4.457,
+    "max_memory_allocated (GB)": 92.72,
+    "memory_allocated (GB)": 67.67,
+    "perplexity": 4.035285237798187,
+    "total_memory_available (GB)": 94.62
+}
